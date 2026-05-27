@@ -1,0 +1,8 @@
+# Local tooling artifacts
+.superpowers/
+
+# Sensitive local sample contracts kept out of GitHub
+/【文档】人力模块.docx
+/土投集团人员台账(4).xlsx
+/学历学位证书台账(1).xlsx
+/数据汇总(2).xlsx
