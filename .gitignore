@@ -1,5 +1,6 @@
 # Local tooling artifacts
 .superpowers/
+.worktrees/
 
 # Sensitive local sample contracts kept out of GitHub
 /【文档】人力模块.docx
